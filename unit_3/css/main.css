@@ -1,0 +1,18 @@
+body {
+	background-image: url(../images/laptop.jpg);
+	background-size: cover;
+}
+
+.centered {
+	text-align: center;
+}
+
+.colored {
+	color: #ecf0f1;
+	font-size: 24px;
+}
+
+ul	{
+	text-align: center;
+	list-style-type: none;
+}
