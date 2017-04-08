@@ -1,10 +1,12 @@
 body {
 	background-image: url(../images/laptop.jpg);
 	background-size: cover;
+	font-family: 'PT Serif', serif;
+	text-align: center;
 }
 
-.centered {
-	text-align: center;
+.header {
+	font-family: 'Playfair Display', serif;
 }
 
 .colored {
@@ -12,7 +14,8 @@ body {
 	font-size: 24px;
 }
 
-ul	{
-	text-align: center;
-	list-style-type: none;
+.info {
+	color: #e74c3c
 }
+
+
