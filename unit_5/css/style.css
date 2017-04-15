@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Oswald', sans-serif;
+}
+
+nav {
+	background-color: #E8C66A;
+	height: 100px;
+}
+
+ul li {
+	list-style-type: none;
+	width: 100%;
+	margin-right: auto; margin-left: auto;
+	text-align: center;
+}
+
+li {
+	font-size: 23px;
+}
+
+section {
+	position: absolute; 
+}
+
+#img-sec {
+	height: 410px;
+	width: 400px;
+	text-align: center;
+	background-color: #FFC675;
+}
+
+footer {
+	background-color: #FF957E;
+}
+
+
+
+
