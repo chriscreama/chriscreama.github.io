@@ -37,7 +37,7 @@ a {
 
 .greeting h1 {
 	color: #16a085;
-	font-size: 35px;
+	font-size: 2em;
 	text-transform: uppercase;
 	padding-top: 190px;
 	text-shadow: 0.5px 1px #95a5a6;
@@ -57,13 +57,13 @@ a {
 }
 
 .first {
-	margin-left: 490px;
+	margin-left: 2%;
 	margin-top: 30px;
 }
 
 .skills img {
-	padding-left: 40px;
-	padding-bottom: 50px;
+	padding-left: 40%;
+	padding-bottom: 10%;
 }
 
 footer {
